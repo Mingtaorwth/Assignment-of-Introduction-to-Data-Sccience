@@ -6,7 +6,6 @@ Using data science and machine learning to determine the pricing for houses that
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Documentation](#Documentation)
 
 
 ## Introduction
